@@ -4,7 +4,7 @@
 </h1>
 
 ![Preview do Portfólio](img/preview.png)
-<h4 align="center"><a href="https://www.iuricode.com/">VISITE O PROJETO</a></h4>
+<h4 align="center"> <a href="https://nebulosadev.vercel.app/#inicio">VISITE O PROJETO</a></h4>
 
 ## 🗂️ Estrutura do Site
 
