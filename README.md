@@ -1,2 +1,7 @@
-# Portifolio-Pessoal
-Meu portfólio pessoal, apresentando meus projetos e habilidades.
+
+<h1 align="center">
+  💻<br> Portifolio Pessoal - Gabriela Vieira
+</h1>
+
+
+
