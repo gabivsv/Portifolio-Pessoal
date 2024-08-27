@@ -34,7 +34,7 @@ O portfólio é composto pelas seguintes páginas e seções:
 
 Para qualquer dúvida ou sugestão, você pode me encontrar em:
 
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/gabriela-vieira-dos-santos-vaz-27888b298/))
+- [LinkedIn](https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/gabriela-vieira-dos-santos-vaz-27888b298/)
 - [E-mail](mailto:contatogabrielavieirasv@gmail.com)
 
 
