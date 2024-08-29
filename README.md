@@ -37,4 +37,4 @@ Para qualquer dúvida ou sugestão, você pode me encontrar em:
 - [LinkedIn](https://www.linkedin.com/in/gabriela-vieira-dos-santos-vaz-27888b298/)
 - [E-mail](mailto:contatogabrielavieirasv@gmail.com)
 
-
+© 2024 Gabriela Vieira. Todos os direitos reservados.
