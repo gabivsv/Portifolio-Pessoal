@@ -3,7 +3,7 @@
   💻<br> Portifolio Pessoal - Gabriela Vieira
 </h1>
 
-
+![Preview do Portfólio](img/preview.png)
 <h4 align="center"> <a href="https://nebulosadev.vercel.app/#inicio">VISITE O PROJETO</a></h4>
 
 ## 🗂️ Estrutura do Site
